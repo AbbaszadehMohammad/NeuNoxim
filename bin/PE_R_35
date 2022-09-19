@@ -1,0 +1,12 @@
+945: ProcessingElement[35] RECEIVING [type: H, seq: 0, 53-->35], src_Neu_id = 0, data = 0
+946: ProcessingElement[35] RECEIVING [type: B, seq: 1, 53-->35], src_Neu_id = 854, data = 4.67542
+947: ProcessingElement[35] RECEIVING [type: B, seq: 2, 53-->35], src_Neu_id = 855, data = 5.66521
+948: ProcessingElement[35] RECEIVING [type: B, seq: 3, 53-->35], src_Neu_id = 856, data = 4.57713
+949: ProcessingElement[35] RECEIVING [type: B, seq: 4, 53-->35], src_Neu_id = 857, data = 5.39248
+950: ProcessingElement[35] RECEIVING [type: B, seq: 5, 53-->35], src_Neu_id = 858, data = 0
+951: ProcessingElement[35] RECEIVING [type: B, seq: 6, 53-->35], src_Neu_id = 859, data = 8.97532
+952: ProcessingElement[35] RECEIVING [type: B, seq: 7, 53-->35], src_Neu_id = 860, data = 0
+953: ProcessingElement[35] RECEIVING [type: B, seq: 8, 53-->35], src_Neu_id = 861, data = 0
+954: ProcessingElement[35] RECEIVING [type: B, seq: 9, 53-->35], src_Neu_id = 862, data = 14.0867
+955: ProcessingElement[35] RECEIVING [type: B, seq: 10, 53-->35], src_Neu_id = 863, data = 16.2024
+956: ProcessingElement[35] RECEIVING [type: T, seq: 11, 53-->35], src_Neu_id = 0, data = 0
